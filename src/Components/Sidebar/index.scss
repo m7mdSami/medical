@@ -1,0 +1,10 @@
+$radius: 50px;
+$white: #fff;
+
+.sidebar {
+    background-color: $white;
+    height: 100%;
+    box-shadow: -1px -3px 5px 0 #00000024;
+    border-bottom-right-radius: $radius;
+    padding: 2rem 1rem;
+}
